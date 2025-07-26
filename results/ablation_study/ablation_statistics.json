@@ -1,0 +1,30 @@
+{
+  "baseline": {
+    "mean_acc": 0.607,
+    "std_acc": 0.0,
+    "min_acc": 0.607,
+    "max_acc": 0.607,
+    "n_seeds": 5
+  },
+  "monitor_only": {
+    "mean_acc": 0.604,
+    "std_acc": 0.0,
+    "min_acc": 0.604,
+    "max_acc": 0.604,
+    "n_seeds": 5
+  },
+  "controller_only": {
+    "mean_acc": 0.615,
+    "std_acc": 0.0,
+    "min_acc": 0.615,
+    "max_acc": 0.615,
+    "n_seeds": 5
+  },
+  "full_adaptive": {
+    "mean_acc": 0.606,
+    "std_acc": 0.0,
+    "min_acc": 0.606,
+    "max_acc": 0.606,
+    "n_seeds": 5
+  }
+}

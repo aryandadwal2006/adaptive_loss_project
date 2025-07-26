@@ -1,0 +1,31 @@
+2025-07-22 10:37:36,194 - experiment_ablation - INFO - log_info:112 - Experiment Logger initialized for: ablation
+2025-07-22 10:37:36,194 - experiment_ablation - INFO - log_info:112 - Session ID: 20250722_103736
+2025-07-22 10:37:36,194 - experiment_ablation - INFO - log_info:112 - Output directory: results\ablation_study\full_adaptive_seed123
+2025-07-22 10:37:37,715 - experiment_ablation - INFO - log_info:112 - Running ablation mode: full_adaptive
+2025-07-22 10:37:37,715 - experiment_ablation - INFO - log_info:112 - Monitor: True, Controller: True
+2025-07-22 10:38:20,941 - experiment_ablation - INFO - log_info:112 - Epoch 1: Train Loss=1.8164, Train Acc=0.2510; Val Loss=1.7125, Val Acc=0.3280
+2025-07-22 10:39:02,960 - experiment_ablation - INFO - log_info:112 - Epoch 2: Train Loss=1.5982, Train Acc=0.3807; Val Loss=1.5455, Val Acc=0.4180
+2025-07-22 10:39:47,168 - experiment_ablation - INFO - log_info:112 - Epoch 3: Train Loss=1.4326, Train Acc=0.4505; Val Loss=1.3356, Val Acc=0.5110
+2025-07-22 10:40:29,647 - experiment_ablation - INFO - log_info:112 - Epoch 4: Train Loss=1.2814, Train Acc=0.4955; Val Loss=1.2662, Val Acc=0.5050
+2025-07-22 10:41:12,022 - experiment_ablation - INFO - log_info:112 - Epoch 5: Train Loss=1.1629, Train Acc=0.5245; Val Loss=1.1813, Val Acc=0.5230
+2025-07-22 10:41:54,450 - experiment_ablation - INFO - log_info:112 - Epoch 6: Train Loss=1.1329, Train Acc=0.5400; Val Loss=1.2050, Val Acc=0.5260
+2025-07-22 10:42:39,692 - experiment_ablation - INFO - log_info:112 - Epoch 7: Train Loss=1.0692, Train Acc=0.5725; Val Loss=1.0969, Val Acc=0.5360
+2025-07-22 10:43:26,016 - experiment_ablation - INFO - log_info:112 - Epoch 8: Train Loss=0.9784, Train Acc=0.5927; Val Loss=1.0936, Val Acc=0.5440
+2025-07-22 10:44:11,293 - experiment_ablation - INFO - log_info:112 - Epoch 9: Train Loss=1.0028, Train Acc=0.6208; Val Loss=1.0315, Val Acc=0.5640
+2025-07-22 10:44:56,575 - experiment_ablation - INFO - log_info:112 - Epoch 10: Train Loss=1.0690, Train Acc=0.6218; Val Loss=1.2201, Val Acc=0.5740
+2025-07-22 10:45:41,131 - experiment_ablation - INFO - log_info:112 - Epoch 11: Train Loss=0.9457, Train Acc=0.6452; Val Loss=1.2717, Val Acc=0.5780
+2025-07-22 10:46:25,178 - experiment_ablation - INFO - log_info:112 - Epoch 12: Train Loss=0.9342, Train Acc=0.6675; Val Loss=1.2146, Val Acc=0.5590
+2025-07-22 10:47:11,292 - experiment_ablation - INFO - log_info:112 - Epoch 13: Train Loss=0.9241, Train Acc=0.6845; Val Loss=1.1542, Val Acc=0.5610
+2025-07-22 10:47:53,086 - experiment_ablation - INFO - log_info:112 - Epoch 14: Train Loss=0.8249, Train Acc=0.6943; Val Loss=1.0730, Val Acc=0.5840
+2025-07-22 10:48:37,084 - experiment_ablation - INFO - log_info:112 - Epoch 15: Train Loss=0.8371, Train Acc=0.7165; Val Loss=1.3099, Val Acc=0.5730
+2025-07-22 10:49:23,624 - experiment_ablation - INFO - log_info:112 - Epoch 16: Train Loss=0.7566, Train Acc=0.7230; Val Loss=1.2517, Val Acc=0.5790
+2025-07-22 10:50:08,017 - experiment_ablation - INFO - log_info:112 - Epoch 17: Train Loss=0.7611, Train Acc=0.7362; Val Loss=1.2563, Val Acc=0.5970
+2025-07-22 10:50:50,555 - experiment_ablation - INFO - log_info:112 - Epoch 18: Train Loss=0.6863, Train Acc=0.7680; Val Loss=1.2423, Val Acc=0.5940
+2025-07-22 10:51:33,517 - experiment_ablation - INFO - log_info:112 - Epoch 19: Train Loss=0.6612, Train Acc=0.7692; Val Loss=1.1795, Val Acc=0.5910
+2025-07-22 10:52:18,563 - experiment_ablation - INFO - log_info:112 - Epoch 20: Train Loss=0.6623, Train Acc=0.7770; Val Loss=1.3888, Val Acc=0.5890
+2025-07-22 10:53:06,462 - experiment_ablation - INFO - log_info:112 - Epoch 21: Train Loss=0.6773, Train Acc=0.7795; Val Loss=1.3905, Val Acc=0.5960
+2025-07-22 10:53:51,789 - experiment_ablation - INFO - log_info:112 - Epoch 22: Train Loss=0.6609, Train Acc=0.7907; Val Loss=1.3886, Val Acc=0.5940
+2025-07-22 10:54:36,969 - experiment_ablation - INFO - log_info:112 - Epoch 23: Train Loss=0.6164, Train Acc=0.8093; Val Loss=1.4448, Val Acc=0.6030
+2025-07-22 10:55:21,244 - experiment_ablation - INFO - log_info:112 - Epoch 24: Train Loss=0.5833, Train Acc=0.8050; Val Loss=1.3848, Val Acc=0.6020
+2025-07-22 10:56:06,168 - experiment_ablation - INFO - log_info:112 - Epoch 25: Train Loss=0.5502, Train Acc=0.8313; Val Loss=1.5197, Val Acc=0.6060
+2025-07-22 10:56:06,168 - experiment_ablation - INFO - log_info:112 - Completed in 1108.5s. Best Val Acc=0.6060 at epoch 25.

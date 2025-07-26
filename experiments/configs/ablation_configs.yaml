@@ -1,0 +1,13 @@
+# Ablation study configurations
+- name: ablation_no_rl
+  removed_components:
+    - rl_agent
+- name: ablation_no_meta
+  removed_components:
+    - meta_controller
+- name: ablation_no_aux
+  removed_components:
+    - auxiliary_loss
+- name: ablation_no_clip
+  removed_components:
+    - gradient_clipping

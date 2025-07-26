@@ -1,0 +1,15 @@
+# Adaptive training configurations
+- name: adaptive_default
+  training:
+    num_epochs: 50
+    batch_size: 32
+    learning_rate: 0.001
+    weight_decay: 0.0001
+  model:
+    type: SimpleCNN
+    hidden_dim: 64
+  adaptive:
+    use_rl_agent: true
+    rl_hidden_dim: 64
+    use_meta_controller: true
+    meta_hidden_dim: 64

@@ -1,0 +1,9 @@
+[
+  {
+    "mode1": "baseline",
+    "mode2": "monitor_only",
+    "mean_diff": -0.0030000000000000027,
+    "t_statistic": -Infinity,
+    "p_value": 0.0,
+    "cohen_d": Infinity,
+    "significant_05": 
