@@ -104,4 +104,4 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Acknowledgments
 
-This work was supported by [Your Funding Source].
+Thanks to my parents. This is part of my first research paper.
