@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-run.py: Unified launcher for baseline, adaptive, and ablation pipelines.
-"""
-
 import argparse
 import sys
 from pathlib import Path
